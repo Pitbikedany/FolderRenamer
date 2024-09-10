@@ -1,3 +1,7 @@
+# Daniel Lourenço
+# Setembro 2024
+# Python + Tkinter
+
 import tkinter as tk
 from tkinter import filedialog
 import os
